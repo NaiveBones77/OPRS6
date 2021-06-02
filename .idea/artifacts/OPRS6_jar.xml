@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OPRS6:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OPRS6_jar</output-path>
+    <root id="archive" name="OPRS6.jar">
+      <element id="module-output" name="OPRS6" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../OPRS2/out/artifacts/OPRS2_jar/OPRS2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/OneDrive/Рабочий стол/java3d/jzy3d-api-1.0.2-maths-io.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../OPRS5/out/artifacts/OPRS5_jar/OPRS5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
